@@ -1,4 +1,5 @@
 # Loca_Finder
+Trouver un logement à louer est devenu un casse-tête dans notre région, c’est pourquoi Loca_Finder a été conçu pour aider les gens à trouver facilement un logement. L’idée est de faciliter la mise en location des maisons pour les propriétaires et d’éviter aux locataires de trop chercher dans les rues pour trouver un logement à louer.
 
 # Membres du groupe
 - JN BAPTISTE Louvensky Adema
@@ -7,8 +8,7 @@
 # User Stories
 
 # Must have
-
-- [x]
+- [x] L'utilisasteur qui souhaite trouver un logement peut acceder
 
 # Maybe
 
