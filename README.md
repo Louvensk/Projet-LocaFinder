@@ -1,4 +1,4 @@
-# LocaFinder
+# Loca-Finder
 
 # Membres du groupe
 - JN BAPTISTE Louvensky Adema
