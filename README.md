@@ -17,8 +17,9 @@ Trouver un logement à louer est devenu un casse-tête dans notre région, c’e
 - [x] L'utilisateur peut se deconnecter de l'application.
 
 # Maybe
+![Sans titre 2](https://github.com/user-attachments/assets/be99e57c-5244-435c-aa26-f54206a6b68e)
 
-- [x] 
+
 
 
 # Would be nice to have
